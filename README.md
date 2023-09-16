@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👀 I have an interest in frontend engineering and cloud computing<br>
+🌱 I’m currently learning Web frontend([typescript](https://product.kyobobook.co.kr/detail/S000208416779), [Next.js](https://www.udemy.com/course/nextjs-react-incl-two-paths/)) and web backend(Node.js)<br>
