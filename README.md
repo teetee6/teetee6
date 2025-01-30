@@ -4,17 +4,9 @@ Hi there! 👋
 -->
 Hello! I'm hooshik. 👨‍💻
 
-I believe in challenging myself and constantly striving for improvement. I refuse to settle for mediocrity and am committed to continuous growth and development. 🚀
-
 I want to create excellent software systems regardless of the programming language.
 
 ### Interests and Current Learning Focus
 1. Currently, I'm applying advanced patterns in TypeScript and React to my projects.
 
-2. I have a keen interest in customizing GPT using ChatGPT for various applications. 🤖
-
-
-
-
-
-
+2. I'm learning Swift for iOS development and have a strong interest in the Apple ecosystem. 🍎
